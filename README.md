@@ -4,11 +4,11 @@ The company that I worked with here is a company that operates in the global log
 
 Marketing department wants to know more about the customer base by segmenting them according to their purchasing behavior. They want to tailor their marketing strategies, improve customer retention, and increase sales by focusing on high-value customers and re-engaging less active ones.
 
-### Key pain point?
+### **Key pain point?**
 - Lack of targeted marketing: Without clear segmentation, marketing efforts are often broad and less effective, leading to missed opportunities for personalized customer engagement.
 - Customer churn: Difficulty in identifying at-risk customers who are likely to stop purchasing, resulting in higher churn rates.
   
-### Insights and recommendations are provided on the following key areas:
+### **Insights and recommendations are provided on the following key areas:**
 - Recency, Frequency, Monetary (RFM) Scores: These scores allow us to classify customers based on their purchasing behavior, helping to identify segments for targeted marketing.
 
   - Recency: How recently a customer made a purchase.
@@ -54,13 +54,15 @@ Customers are categorized into groups based on their RFM score.
 
 Based on the insights derived from RFM analysis, here are strategic recommendations:
 
-1. Tailored Marketing Campaigns: Customers like Euro Shopping Channel and Mini Gifts Distributors, who have both high Monetary Value (M) and high Frequency (F), should be considered for VIP or loyalty programs. Develop personalized email campaigns targeting high-value customers with exclusive offers, while creating re-engagement strategies for at-risk customers.
+**1. Tailored Marketing Campaigns:**
+   - Customers like Euro Shopping Channel and Mini Gifts Distributors, who have both high Monetary Value (M) and high Frequency (F), should be considered for VIP or loyalty programs.
+   - Develop personalized email campaigns targeting high-value customers with exclusive offers, while creating re-engagement strategies for at-risk customers.
 
-2. Cross-Sell and Upsell to High-Frequency Buyers:
-For customers with high Frequency (F) but relatively lower Monetary Value (M), such as Handji Gifts & Co, there may be an opportunity to increase their Average Order Value (AOV) through upselling or cross-selling. Personalized recommendations or bundle offers could encourage them to spend more per purchase.
+**2. Cross-Sell and Upsell to High-Frequency Buyers:**
+- For customers with high Frequency (F) but relatively lower Monetary Value (M), such as Handji Gifts & Co, there may be an opportunity to increase their Average Order Value (AOV) through upselling or cross-selling. Personalized recommendations or bundle offers could encourage them to spend more per purchase.
 
-3. Evaluate Customer Lifetime Value (CLV)
-Incorporate a Customer Lifetime Value (CLV) analysis to better understand the long-term value each customer brings. Given that this business involves handling durable goods and high-value transactions, each customer relationship extremely valuable. CLV can help prioritize which customers to invest in for retention and nurturing, especially those with high CLV but declining engagement
+**3. Evaluate Customer Lifetime Value (CLV):** 
+- Incorporate a Customer Lifetime Value (CLV) analysis to better understand the long-term value each customer brings. Given that this business involves handling durable goods and high-value transactions, each customer relationship extremely valuable. CLV can help prioritize which customers to invest in for retention and nurturing, especially those with high CLV but declining engagement
 
 # Conclusion
 
