@@ -11,9 +11,9 @@ Marketing department wants to know more about the customer base by segmenting th
 ### Insights and recommendations are provided on the following key areas:
 - Recency, Frequency, Monetary (RFM) Scores: These scores allow us to classify customers based on their purchasing behavior, helping to identify segments for targeted marketing.
 
-![alt text](Screenshot 2024-09-24 135122.png)
+![alt text](tableausc.png)
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [Tableau](https://public.tableau.com/views/RFMAnalysis_17248724679780/RFMDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+An interactive Tableau dashboard used to report and explore sales trends can be found here: [Tableau](https://public.tableau.com/views/RFMAnalysis_17248724679780/RFMDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Data Structure & Initial Checks
 
