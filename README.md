@@ -4,11 +4,11 @@ The company that I worked with here is a company that operates in the global log
 
 Marketing department wants to know more about the customer base by segmenting them according to their purchasing behavior. They want to tailor their marketing strategies, improve customer retention, and increase sales by focusing on high-value customers and re-engaging less active ones.
 
-## Key pain point?
+### Key pain point?
 - Lack of targeted marketing: Without clear segmentation, marketing efforts are often broad and less effective, leading to missed opportunities for personalized customer engagement.
 - Customer churn: Difficulty in identifying at-risk customers who are likely to stop purchasing, resulting in higher churn rates.
   
-## Insights and recommendations are provided on the following key areas:
+### Insights and recommendations are provided on the following key areas:
 - Recency, Frequency, Monetary (RFM) Scores: These scores allow us to classify customers based on their purchasing behavior, helping to identify segments for targeted marketing.
 
   - Recency: How recently a customer made a purchase.
@@ -31,7 +31,7 @@ To address those key pain points mentioned earlier, RFM (Recency, Frequency, Mon
 
 Customers are categorized into groups based on their RFM score.
 
-![image3!](images/tableausc.png)
+![image3!](images/rfmGroup.png)
 
 ## Insights Deep Dive
 
